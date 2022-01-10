@@ -1,0 +1,2 @@
+# Algorithms And Complexity Analysis
+This repository contains algorithms and data structures that I have implemented. Most of the algorithms were implemented as part of educational activities at SPBPU.
